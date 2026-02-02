@@ -1,3 +1,7 @@
+![Home Page](./assets/images/shot1.jpeg)
+![Event Page](./assets/images/shot2.jpeg)
+![Settings Page](./assets/images/shot3.jpeg)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
