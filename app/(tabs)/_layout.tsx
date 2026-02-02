@@ -32,10 +32,10 @@ return (
         tabBarIcon:({color, size})=>
         <Ionicons name='flash-outline' size={size} color={color}/> }}/>
     <Tabs.Screen 
-        name='study' 
-        options={{title:"Study", 
+        name='event' 
+        options={{title:"Event Planner", 
         tabBarIcon:({color, size})=>
-        <Ionicons name= "book"  size={size} color={color}/>}}/>
+        <Ionicons name= "time"  size={size} color={color}/>}}/>
     
     <Tabs.Screen 
         name='settings' 

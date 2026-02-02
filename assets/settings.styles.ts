@@ -9,7 +9,7 @@ export const createSettingsStyles = (colors:ColorScheme)=>{
         safeArea:{
             flex: 1,
         },
-        headers:{
+        header:{
             paddingHorizontal:24,
             paddingVertical: 32,
             paddingBottom: 24,
@@ -92,7 +92,7 @@ export const createSettingsStyles = (colors:ColorScheme)=>{
             alignItems:"center"
         },
         
-        ststNumber:{
+        statNumber:{
             fontSize:20,
             fontWeight: "800",
             marginTop: 2,
@@ -162,5 +162,6 @@ export const createSettingsStyles = (colors:ColorScheme)=>{
             fontWeight:"600",
             color:colors.danger
         }
-    })
+    });
+    return styles
 }
